@@ -1,0 +1,1 @@
+In this lab I learned how to edit and create different version of a file. I also learned how to upload a file to my GitHub repository.
